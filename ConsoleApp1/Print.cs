@@ -2,7 +2,8 @@ using System;
 
 public class Print
 {
-    public static void Main(string[] args)
+    public void Data()
+
     {
 
         int age = 35;
@@ -14,4 +15,5 @@ public class Print
         Console.WriteLine("Your Address is: " + address);
 
     }
+    
 }
