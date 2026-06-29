@@ -1,0 +1,5 @@
+C:\Users\class 12.DESKTOP-1LS3L01\Documents\Visual Programming\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\class 12.DESKTOP-1LS3L01\Documents\Visual Programming\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\class 12.DESKTOP-1LS3L01\Documents\Visual Programming\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\class 12.DESKTOP-1LS3L01\Documents\Visual Programming\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\class 12.DESKTOP-1LS3L01\Documents\Visual Programming\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.sourcelink.json
