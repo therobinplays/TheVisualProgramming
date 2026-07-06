@@ -11,8 +11,14 @@ public static void Main(string[] args)
         /* Addition addition = new Addition();
         addition.Add(4,5); */
 
-        Marks marks = new Marks();
-        marks.Points( 40, 45, 50 );
+        /* Marks marks = new Marks();
+        marks.Points( 40, 45, 50 ); */
+
+        /* Circle circle = new Circle();
+        circle.Input(6.0, 3.0); */
+
+        Perimeter perimeter = new Perimeter();
+        perimeter.Value (15, 10);
 
 
     }
