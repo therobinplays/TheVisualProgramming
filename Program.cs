@@ -15,7 +15,7 @@ public static void Main(string[] args)
         marks.Points( 40, 45, 50 ); */
 
         /* Circle circle = new Circle();
-        circle.Input(6.0, 3.0); */
+        circle.Input(6.0, 3.14); */
 
         /* Perimeter perimeter = new Perimeter();
         perimeter.Value (15, 10); */
@@ -26,6 +26,11 @@ public static void Main(string[] args)
         /* Simpleintrest simpleintrest = new Simpleintrest();
         simpleintrest.Amount (10000, 3, 5); */
 
+       /* Average average = new Average ();
+        average.Subjects(65 ,55 ,70 ,80 ,75 ); */
+
+        Degree degree = new Degree();
+        degree.Temperature(100);
 
     }
 }
