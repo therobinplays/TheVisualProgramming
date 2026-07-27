@@ -6,7 +6,7 @@ using System;
     public void Given (int physic, int chemistry, int math, int english)
 
     {
-        int total= (physic+chemistry+math+english+) /5
+        int total= (physic+chemistry+math+english) /5;
         
     }
 

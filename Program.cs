@@ -29,8 +29,17 @@ public static void Main(string[] args)
        /* Average average = new Average ();
         average.Subjects(65 ,55 ,70 ,80 ,75 ); */
 
-        Degree degree = new Degree();
-        degree.Temperature(100);
+        /* Degree degree = new Degree();
+        degree.Temperature(100);*/
+
+        Program1 program1 = new Program1();
+        Console.WriteLine("Enter a number to check the given number.");
+        int num = Convert.ToInt32(Console.Read());
+        program1.Input(num);
+
+        /* Program2 program2 = new Program2();
+        program2.Input(); */
+
 
     }
 }
