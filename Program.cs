@@ -3,7 +3,7 @@
 {
 public static void Main(string[] args)
     {
-        /* Console.WriteLine("Hello Saubhagya"); */
+        /* Console.WriteLine("Hello !"); */
 
         /* Print print = new Print();
         print.Data(39, "Lionel Messi", "Argentina"); */
@@ -32,13 +32,19 @@ public static void Main(string[] args)
         /* Degree degree = new Degree();
         degree.Temperature(100);*/
 
-        Program1 program1 = new Program1();
-        Console.WriteLine("Enter a number to check the given number.");
-        int num = Convert.ToInt32(Console.Read());
-        program1.Input(num);
+        /* Program1 program1 = new Program1();
+        program1.Input(); */
 
         /* Program2 program2 = new Program2();
         program2.Input(); */
+
+        /* Program3 program3 = new Program3();
+        program3.Large(); */
+
+        /* Program4 program4 = new Program4();
+        program4.small();*/
+
+        
 
 
     }

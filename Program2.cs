@@ -19,13 +19,13 @@ public class Program2
         if (num % 2 == 0)
         
         {
-            Console.WriteLine($"The given {num} is even.");
+            Console.WriteLine($"The given number {num} is even.");
         }
 
         else
 
         {
-            Console.WriteLine($"The given {num} is odd.");
+            Console.WriteLine($"The given number {num} is odd.");
         }
         
     }
