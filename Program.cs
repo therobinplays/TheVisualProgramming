@@ -44,8 +44,19 @@ public static void Main(string[] args)
         /* Program4 program4 = new Program4();
         program4.small();*/
 
-        
+        /* Program5 program5 = new Program5();
+        program5.Eligibility(); */
 
+        /* Program6 program6 = new Program6();
+        program6.Check(); */
+
+        /* Program7 program7 = new Program7();
+        program7.Check(); */
+
+        /* Program8 program8 = new Program8();
+        program8.Year(); */
+
+        
 
     }
 }

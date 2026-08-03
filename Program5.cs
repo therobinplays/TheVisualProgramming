@@ -12,7 +12,7 @@ public class Program5
         Console.WriteLine("Enter your age for the Voting Eligibility.");
         int age = Convert.ToInt32(Console.ReadLine());
 
-        if ( age > = 18)
+        if ( age >= 18)
 
         {
 

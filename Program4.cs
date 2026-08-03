@@ -2,10 +2,10 @@
 
 using System;
 
-public class Program4 
+public class Program4
 
 {
-    public void Small()
+    public void Small ()
     
     {
 
@@ -19,7 +19,7 @@ public class Program4
 
         {
 
-            Console.WriteLine($"The number {num1} is smaller.")
+            Console.WriteLine($"The number {num1} is smaller.");
 
         }
 
