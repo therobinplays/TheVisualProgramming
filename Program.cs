@@ -56,7 +56,8 @@ public static void Main(string[] args)
         /* Program8 program8 = new Program8();
         program8.Year(); */
 
-        
+        Question1 question1 = new Question1();
+        question1.Payment();
 
     }
 }
