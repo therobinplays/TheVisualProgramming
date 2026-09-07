@@ -19,8 +19,7 @@ Rs. 60,000 and above 5%
     public void Payment ()
 
     {
-
-
+        
         double salary;
         double bonus;
         double totalSalary;
@@ -39,13 +38,13 @@ Rs. 60,000 and above 5%
                 bonus = salary*20/100;
             }
 
-            else if (salary<40000 && salary>=20000)
+            else if (salary<40000)
 
             {
                 bonus = salary*15/100;
             }
 
-            else if (salary<60000 && salary>=4000 )
+            else if (salary<60000)
 
             {
                 bonus= salary*10/100;

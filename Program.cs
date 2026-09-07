@@ -56,8 +56,17 @@ public static void Main(string[] args)
         /* Program8 program8 = new Program8();
         program8.Year(); */
 
-        Question1 question1 = new Question1();
-        question1.Payment();
+        /* Question1 question1 = new Question1();
+        question1.Payment(); */
+
+        /* Info info = new Info();
+        info.DisplayDetails(); */
+
+        /* Multipleof5 multipleof5 = new Multipleof5();
+        multipleof5.Multiple();*/
+
+        Array1d array1d =new Array1d();
+        array1d.Data();
 
     }
 }
